@@ -7,4 +7,7 @@ Save Earth Learn More, Develop More, Change World.
 > Go to this Website https://datawaster.ml/.
 >
 > Click on Start Wasting 
-> Do Check Advance Options (if you wish)
+> Do Check Advance Options (if you wish).
+
+# Screen Shot
+![ss](https://i.ibb.co/yRvXXMz/Screenshot-2021-07-24-112952.png)
