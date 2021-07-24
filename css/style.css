@@ -1,0 +1,44 @@
+.bg-gray{
+    background-color: #232323;
+}
+
+.form-range-thumb-bg{
+    background-color: #232323;
+}
+
+.form-range::-webkit-slider-thumb {
+  background: #198754;;
+}
+
+.form-range::-moz-range-thumb {
+  background: #198754;;
+}
+
+.form-range::-ms-thumb {
+  background: #198754;;
+}
+
+.form-range::-webkit-slider-thumb:active{
+    background-color: #198754;
+}
+
+.form-range::box-shadow{
+    background-color: #198754;
+}
+
+.form-range::-webkit-slider-thumb{
+    background-color: #198754;
+}
+
+.form-range:focus::-webkit-slider-thumb{
+    background-color: #198754;
+}
+
+.form-range:focus::-ms-thumb{
+    background-color: #198754;
+}
+
+.form-range:focus:-moz-range-thumb{
+    background-color: #198754;
+}
+
