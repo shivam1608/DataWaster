@@ -14,3 +14,6 @@ Save Earth Learn More, Develop More, Change World.
 
 # Credits
 ![Shivam1608](https://github.com/shivam1608)
+
+# Why
+I am just a student and learning stuffs. i got some free time and made this why? idk
