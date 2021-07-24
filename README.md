@@ -3,6 +3,9 @@ As the name suggest it can waste your valuable data, internet, bandwidth usage o
 We do not promote wastage of data (its Only for Educational Purpose).
 Save Earth Learn More, Develop More, Change World.
 
+## Version 
+v0.1
+
 # Usage 
 > Go to this Website https://datawaster.ml/.
 >
