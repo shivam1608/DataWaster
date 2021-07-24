@@ -11,3 +11,6 @@ Save Earth Learn More, Develop More, Change World.
 
 # Screen Shot
 ![ss](https://i.ibb.co/3s6778x/Screenshot-2021-07-24-112952.png)
+
+# Credits
+![Shivam1608](https://github.com/shivam1608)
