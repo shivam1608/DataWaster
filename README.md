@@ -17,3 +17,6 @@ Save Earth Learn More, Develop More, Change World.
 
 # Why This?
 I am just a student and learning stuffs. i got some free time and made this why? idk
+
+# Not Stable?
+This might not be stable in android devices but it works in every devices the only thing you need is to be rich enough (in terms of internet) to spend.
