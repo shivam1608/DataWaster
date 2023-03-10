@@ -38,7 +38,7 @@ function start(){
                 }
 
                 instantTime = Date.now();
-                var t = $.get("https://datawasterhosting.mainthread.repl.co/stupidData?"+ Math.random() , (res)=>{
+                var t = $.get("https://i.ibb.co/qJPr4nz/data-waster-hosting.png?"+ Math.random() , (res)=>{
                     if(t.status == "200"){
                         dataWasted += chunks;
                         document.getElementById("dataWatsedText").innerHTML = parseInt(dataWasted/1024)+" MB";
